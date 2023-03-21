@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * main-print_putchar
- * is written by simegnew
- * return 0
+ * main - check the code
+ *
+ * Return: Always 0.
  */
 int main(void)
 {
